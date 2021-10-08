@@ -8,6 +8,7 @@ Session #1:
   - py manage.py makemigrations
   - py manage.py migrate
   - py manage.py runserver
+  
 Session #2: 
   - cd starter/frontend
   - npm run serve
