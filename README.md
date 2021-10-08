@@ -1,4 +1,4 @@
-# Start project for web application with Django REST api configured as the backend and Vue.Js as the frontend.
+# Starter Project - Django For Backend, Vue.Js As Frontend
 
 ** Note: If you wish to run the project in a virtualenv run the following command in terminal: Scripts\activate
 
