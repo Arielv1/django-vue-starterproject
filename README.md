@@ -3,6 +3,7 @@
 ** Note: If you wish to run the project in a virtualenv run the following command in terminal: Scripts\activate
 
 In order to make the interaction between django and vue work locally we'll need 2 terminal sessions:
+
 Session #1: 
   - cd starter/backend 
   - py manage.py makemigrations
